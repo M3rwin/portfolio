@@ -43,5 +43,3 @@ height="100"/>
  
  - Donner un point professionnel supplémentaire dans le cadre d'une recherche de stage, d'emploi ou de poursuite d'études
  - Se faire référencer par les moteurs de recherche (Dans l'optique de donner suite à un rendez-vous, une réception de CV, ...)
-
-<!-- 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 -->
