@@ -1,0 +1,14 @@
+.bio{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.presentation{
+    display: flex;
+    flex-direction: row;
+}
+
+.bvn{
+    margin-top: -50px;
+}
